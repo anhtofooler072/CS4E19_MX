@@ -36,6 +36,7 @@ void superPrimeNumber(int n) {
 
 int main() {
     int n;
+    cout << "Enter n: ";
     cin >> n;
     superPrimeNumber(n);
 
